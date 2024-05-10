@@ -1,10 +1,11 @@
 # password
 The simplest utility for creating random passwords.
 
-Install:
+Installing:
 1. Compile the code using pyinstaller:
    pip install pyinstaller
    pyinstaller --onefile password.py
+   
 2. Place the executable file in /usr/local/bin/ to access it from the command shell:
    sudo mv password /usr/local/bin/
 
