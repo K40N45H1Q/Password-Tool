@@ -12,7 +12,7 @@ Installing:
 Using:
 Just type "password" passing the desired length as an argument or without it.
 
-Example:
+
 In: password
 Out: oEhW03ESwLgtUHu
 
